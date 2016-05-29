@@ -1,3 +1,3 @@
 # Redux Chat
 
-Socket io and redux chat
+React/redux hello world with webpack
